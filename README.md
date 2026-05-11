@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Mohammad Hayajneh
 
-### 🚀 Computer Science Graduate | AI & Backend Developer
+### 🚀 Computer Science Graduate | Web Developer & AI
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI+Enthusiast;Backend+Developer;Machine+Learning+Engineer;Flask+Developer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI+Enthusiast;Backend+Developer;Machine+Learning+Engineer;Flask+Developer&center=true&width=500&height=45">
 
 <p>
   <a href="https://github.com/mohamedkh199">
