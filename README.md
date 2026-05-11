@@ -18,4 +18,3 @@ I am a Computer Science graduate from Yarmouk University. I specialize in develo
 * **LinkedIn:** [Mohammad Hayajneh](https://www.linkedin.com/in/mohammadkhhayajneh/)
 * **Portfolio:** [Visit My Portfolio](https://mohamedkh199.github.io/MHportfolio/)
 * **Email:** hayajnehmohammad974@gmail.com
- 
