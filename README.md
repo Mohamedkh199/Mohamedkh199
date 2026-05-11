@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Mohammad Hayajneh
 
-### 🚀 Computer Science Graduate | AI & Backend Developer
+### 🚀 Computer Science Graduate | Web Developer & AI
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI+Enthusiast;Backend+Developer;Machine+Learning+Engineer;Flask+Developer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;AI+Enthusiast;Machine+Learning+Engineer;Flask+Developer&center;Backend+Developer=true&width=500&height=45">
 
 <p>
   <a href="https://github.com/mohamedkh199">
@@ -31,7 +31,7 @@
 # 💫 About Me
 
 🎓 Computer Science graduate from Yarmouk University  
-💡 Passionate about Artificial Intelligence, Backend Development, and Web Applications  
+💡 Passionate about Artificial Intelligence, Web Development, and Web Applications  
 🔥 Focused on building practical AI-powered solutions using Python and modern technologies  
 📚 Currently improving my skills in APIs, Deployment, and Advanced Machine Learning  
 🎯 Seeking opportunities as a Junior Software Developer or AI Engineer
