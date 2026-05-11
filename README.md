@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Mohammad Hayajneh 👋
 
-<!--
-**Mohamedkh199/Mohamedkh199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate from Yarmouk University. I specialize in developing AI-driven solutions and web applications using modern technologies.
 
-Here are some ideas to get you started:
+### 🚀 Technical Skills:
+* **Programming:** Python, C++.
+* **Web Development:** HTML, CSS, Flask.
+* **Machine Learning:** Scikit-learn, NLP, TF-IDF.
+* **Tools:** Git, VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Key Project:
+**[Spam Detection System](https://github.com/Mohamedkh199/spam-detection-ai)**
+* Developed a web-based application for spam classification using NLP techniques.
+* Applied text preprocessing and TF-IDF feature extraction.
+* Built user interface and implemented message history tracking.
+
+### 📫 Connect with me:
+* **LinkedIn:** [Mohammad Hayajneh](https://www.linkedin.com/in/mohammadkhhayajneh/)
+* **Portfolio:** [Visit My Portfolio](https://mohamedkh199.github.io/MHportfolio/)
+* **Email:** hayajnehmohammad974@gmail.com
