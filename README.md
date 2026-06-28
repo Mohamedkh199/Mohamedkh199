@@ -1,131 +1,92 @@
-<div align="center">👋 Hi, I'm Mohammad Khaled Hayajneh
+# 👋 Hi there, I'm Mohammad Khaled Hayajneh
+### 🚀 Computer Science Professional | AI & Software Developer
 
-🚀 Computer Science Student | AI & Software Developer
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI+Engineer;Machine+Learning;Backend+Developer;Flask+Developer&center=true&width=520&height=45"><p>
-  <a href="https://github.com/Mohamedkh199">
-    <img src="https://img.shields.io/github/followers/Mohamedkh199?label=Followers&style=for-the-badge">
-  </a>  <a href="https://www.linkedin.com/in/mohammadkhhayajneh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>  <a href="mailto:hayajnehmohammad974@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>  <a href="https://mohamedkh199.github.io/MHportfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white">
+<p align="left">
+  <a href="https://linkedin.com/in/mohammadkhhayajneh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p></div>---
-
-💫 About Me
-
-🎓 Computer Science student at Yarmouk University (Expected Graduation: 2026)
-
-💡 Passionate about Artificial Intelligence, Machine Learning, Backend Development, and Software Engineering.
-
-🚀 Experienced in building AI-powered web applications, NLP solutions, and intelligent automation systems.
-
-📚 Currently expanding my knowledge in APIs, Deployment, and scalable software architecture.
-
-🎯 Looking for opportunities as a Junior Software Developer, Python Developer, or AI Engineer.
+  <a href="mailto:hayajnehmohammad974@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://mohamedkh199.github.io/MHportfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
-🚀 Tech Stack
+## 💫 About Me
 
-💻 Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>---
-
-🌐 Web Development
-
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>---
-
-🤖 Machine Learning & AI
-
-<p>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/TF--IDF-FF9800?style=for-the-badge">
-<img src="https://img.shields.io/badge/Model_Evaluation-009688?style=for-the-badge">
-</p>---
-
-🛠 Tools & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/API_Integration-4CAF50?style=for-the-badge">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-</p>---
-
-💼 Featured Projects
-
-📩 Intelligent NLP Spam Detection System
-
-- AI-powered spam detection using Flask and Scikit-learn
-- TF-IDF feature extraction
-- NLP preprocessing
-- Real-time prediction
-- Message history tracking
-- Automated Excel reports
-
-Tech Stack
-
-Python • Flask • Scikit-learn • NLP • HTML • CSS • Excel
+* 🎓 **Education:** Bachelor of Computer Science from **Yarmouk University** (Graduated 2026).
+* 💡 **Passion:** Deeply interested in **Artificial Intelligence**, **Machine Learning**, **Backend Development**, and **Software Engineering**.
+* 🚀 **Experience:** Skilled in building AI-powered web applications, NLP solutions, and intelligent automation systems.
+* 📚 **Current Focus:** Expanding expertise in **Scalable Software Architecture**, **Advanced APIs**, and **Cloud Deployment**.
+* 🎯 **Goal:** Seeking opportunities as a **Junior Software Developer**, **Python Developer**, or **AI Engineer** where I can drive value and innovate.
 
 ---
 
-📄 ATS AI Enterprise Solution
+## 🚀 Tech Stack
 
-- AI-based Resume Screening System
-- Semantic Resume Matching
-- Automated Candidate Ranking
-- Interactive Streamlit Dashboard
+### 💻 Programming Languages & Backend
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Tech Stack
+### 🌐 Web Development & Frameworks
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Python • Streamlit • Scikit-learn • Machine Learning
+### 🤖 Machine Learning & AI
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-
-🌦 SkyPulse Ultra
-
-- Responsive Weather Dashboard
-- Third-party Weather API Integration
-- Dynamic Weather Visualization
-- Modern Responsive UI
-
-Tech Stack
-
-JavaScript • HTML5 • CSS3 • REST API
-
----
-
-🎯 Core Competencies
-
-- Problem Solving
-- Analytical Thinking
-- Team Collaboration
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Adaptability
+### 🛠 Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-📫 Connect With Me
+## 💼 Featured Projects
 
-📧 Email: "hayajnehmohammad974@gmail.com"
+### 1. 📩 Intelligent NLP Spam Detection System
+> **Graduation Project:** An AI-powered web solution designed to classify and filter spam messages with high accuracy.
+* **Core Features:** TF-IDF feature extraction, NLP text preprocessing, real-time predictions, message history tracking, and automated Excel report generation.
+* **Tech Stack:** `Python` • `Flask` • `Scikit-learn` • `NLP` • `HTML5/CSS3` • `Excel Integration`
 
-💼 LinkedIn: https://linkedin.com/in/mohammadkhhayajneh
+### 2. 📄 ATS AI Enterprise Solution
+> **AI-based Resume Screening System:** Streamlines recruitment by matching candidates to job descriptions semantically.
+* **Core Features:** Semantic resume matching, automated applicant ranking based on job relevance, and an interactive analytics dashboard.
+* **Tech Stack:** `Python` • `Streamlit` • `Scikit-learn` • `Machine Learning`
 
-🌐 Portfolio: https://mohamedkh199.github.io/MHportfolio
+### 3. 🌦 SkyPulse Ultra
+> **Responsive Weather Dashboard:** A modern, live-data dashboard offering dynamic weather visualizations.
+* **Core Features:** Integration with third-party REST Weather APIs, Chart.js/dynamic visualizations, and a fully responsive modern UI.
+* **Tech Stack:** `JavaScript (ES6+)` • `HTML5` • `CSS3` • `REST API Integration`
 
-💻 GitHub: https://github.com/Mohamedkh199
+---
+
+## 🎯 Core Competencies
+
+- 🧩 **Technical:** Object-Oriented Programming (OOP), Data Structures & Algorithms.
+- 🧠 **Analytical:** Advanced Problem Solving & Analytical Thinking.
+- 👥 **Soft Skills:** Team Collaboration, Quick Adaptability to New Technologies, & Continuous Learning.
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedkh199&show_icons=true&theme=visual_studio_dark" alt="Mohammad's GitHub Stats" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+* 💼 **LinkedIn:** [linkedin.com/in/mohammadkhhayajneh](https://linkedin.com/in/mohammadkhhayajneh)
+* 🌐 **Portfolio:** [mohamedkh199.github.io/MHportfolio](https://mohamedkh199.github.io/MHportfolio)
+* 📧 **Email:** [hayajnehmohammad974@gmail.com](mailto:hayajnehmohammad974@gmail.com)
